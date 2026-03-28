@@ -29,7 +29,7 @@
 """Task 3"""
 
 # n=input("Enter a number: ")
-# slc_z=int(input("Enter a sice zone(number): "))
+# slc_z=int(input("Enter a slice zone(number): "))
 # slc_n=n[slc_z:]
 # org_n=n[:slc_z]
 # print(f"Output: {slc_n+org_n}")
